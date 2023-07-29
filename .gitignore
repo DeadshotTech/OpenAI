@@ -48,3 +48,8 @@ Thumbs.db
 *.mov
 *.wmv
 
+# Virtual environments
+venv/
+
+# Workspaces
+*.code-workspace
