@@ -77,6 +77,9 @@ Here are the required tools and packages for running the Java Chatbot:
 brew tap mongodb/brew
 brew install mongodb-community
 
+Double click on msedgedriver for running the driver
+Also, setup virtual envrironment
+
 Ensure you have the above tools and packages installed and working correctly on your system before running the Java Chatbot.
 
 Feel free to customize this documentation further based on your project's specific requirements. The Java Chatbot aims to provide optimized solutions using Python's natural language processing capabilities and Java documentation knowledge. Happy chatbot coding!
