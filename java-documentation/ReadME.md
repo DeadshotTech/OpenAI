@@ -76,6 +76,8 @@ Here are the required tools and packages for running the Java Chatbot:
 
 brew tap mongodb/brew
 brew install mongodb-community
+brew services start mongodb/brew/mongodb-community
+brew services list - Do this to verify if the mongodb server was started
 
 Double click on msedgedriver for running the driver
 Also, setup virtual envrironment
