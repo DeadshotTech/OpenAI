@@ -1,5 +1,3 @@
-My apologies for the confusion. Below is the improved documentation for your Python-based chatbot designed to take and answer questions about the Java language and coding practices. The documentation includes proper indentation and a table for the requirements:
-
 # Java Chatbot: Python-Based AI Assistant
 
 ## Overview
